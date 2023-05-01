@@ -53,9 +53,9 @@
 - **Generate colors**
 - **Figma integration**
 - **Theme Templates**
+- **[Eslint rules](/packages/eslint-plugin/)**
 - 🔜 **Copilot for Product Design**
 - 🔜 **Lightweight Headless Component Library**
-- 🔜 **Eslint rules**
 - 🔜 **Propagate tokens across projects**
 
 And more...
@@ -110,11 +110,16 @@ Check out our examples:
 
 Looking for a specific example? [Request one here!](https://github.com/Mirrorful/mirrorful/issues/357)
 
+### Mirrorful ESLint Plugin
+
+We have an ESLint plugin with a recommended configuration that's ready to integrate with any project and UI library. It will detect hard-coded color strings throughout your project and help you convert them to the Mirrorful theme with a simple `npm run lint`. [Learn more](/packages/eslint-plugin/).
+
 ## ❤️ Community & Support
 
 - [Slack](https://join.slack.com/t/mirrorful/shared_invite/zt-1ps2xtxh0-2NaixFfFzSKZbr5gw_AHfA) - for live discussion with the community and the Mirrorful team.
 - [GitHub Discussions](https://github.com/Mirrorful/mirrorful/discussions) - for help with building and deeper conversations about features.
 - [GitHub Issues](https://github.com/Mirrorful/mirrorful/issues) - for any bugs and errors you encounter using Mirrorful.
+- [Showcase](https://mirrorful.com/docs/home/showcase) - to see the awesome projects our community has built on Mirrorful!
 
 ## 🏘 Open-source vs. paid
 
